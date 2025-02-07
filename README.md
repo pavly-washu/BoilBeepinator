@@ -1,4 +1,4 @@
-# BoilBeepinator
+# Woodpecker
 A pager type device to alert individuals who are visually impaired when water is boiling. Created by Team 6 for the 2025 Assistive Technology Make-a-thon! 
 
 Device uses 2 ESP32 using the ESP-NOW communication protocol. This github will have instructions on creating your own device.
